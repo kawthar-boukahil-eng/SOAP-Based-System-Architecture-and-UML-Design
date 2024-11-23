@@ -1,5 +1,5 @@
 # SOAP-Based System Architecture and UML Design
-
+![Report Screenshot](https://github.com/kawthar-boukahil-eng/SOAP-Based-System-Architecture-and-UML-Design/blob/main/pic.png)
 This repository showcases the design of a distributed system architecture using SOAP (Simple Object Access Protocol). The work highlights the integration of two distinct applications managing administrative and research data for academic staff, facilitated through web services.
 
 ## Features and Highlights
